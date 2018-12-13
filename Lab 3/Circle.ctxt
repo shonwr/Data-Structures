@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=
+comment1.target=Circle()
+comment2.params=radius
+comment2.target=Circle(double)
+comment3.params=
+comment3.target=double\ getRadius()
+comment3.text=Return\ radius
+comment4.params=radius
+comment4.target=void\ setRadius(double)
+comment4.text=Set\ a\ new\ radius
+comment5.params=
+comment5.target=double\ getArea()
+comment6.params=
+comment6.target=double\ getDiameter()
+comment6.text=Return\ diameter
+comment7.params=
+comment7.target=double\ getPerimeter()
+comment8.params=
+comment8.target=void\ printCircle()
+comment8.text=Print\ the\ circle\ info
+numComments=9

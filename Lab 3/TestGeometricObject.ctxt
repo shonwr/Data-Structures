@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TestGeometricObject
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Main\ method
+comment2.params=object1\ object2
+comment2.target=boolean\ equalArea(GeometricObject,\ GeometricObject)
+comment2.text=A\ method\ for\ comparing\ the\ areas\ of\ two\ geometric\ objects
+comment3.params=object
+comment3.target=void\ displayGeometricObject(GeometricObject)
+comment3.text=A\ method\ for\ displaying\ a\ geometric\ object
+numComments=4
