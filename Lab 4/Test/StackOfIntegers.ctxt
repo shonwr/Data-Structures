@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StackOfIntegers()
+comment0.text=Construct\ a\ stack\ with\ the\ default\ capacity\ 16
+comment1.params=capacity
+comment1.target=StackOfIntegers(int)
+comment1.text=Construct\ a\ stack\ with\ the\ specified\ capacity
+comment2.params=value
+comment2.target=void\ push(int)
+comment2.text=Push\ a\ new\ integer\ into\ the\ top\ of\ the\ stack
+comment3.params=
+comment3.target=int\ pop()
+comment3.text=Return\ and\ remove\ the\ top\ element\ from\ the\ stack
+comment4.params=
+comment4.target=int\ peek()
+comment4.text=Return\ the\ top\ element\ from\ the\ stack
+comment5.params=
+comment5.target=boolean\ empty()
+comment5.text=Test\ whether\ the\ stack\ is\ empty
+comment6.params=
+comment6.target=int\ getSize()
+comment6.text=Return\ the\ number\ of\ elements\ in\ the\ stack
+numComments=7

@@ -1,0 +1,11 @@
+public class TestStackOfIntegers {
+  public static void main(String[] args) {
+    StackOfIntegers stack = new StackOfIntegers();
+   
+    for (int i = 0; i < 10; i++)
+      FILL_CODE_OR_CLICK_ANSWER; // Push i to the stack
+
+    while (FILL_CODE_OR_CLICK_ANSWER) // Test if stack is empty
+      System.out.print(FILL_CODE_OR_CLICK_ANSWER + " "); // Remove and return from stack
+  }
+}
